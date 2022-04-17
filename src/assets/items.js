@@ -13,7 +13,7 @@ const items = [
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | Textinhos que eu posto de vez em nunca ✍️",
+    "subtitle": "@neitanto | Textos que eu posto de vez em nunca ✍️",
     "image": instagram,
     "link": "https://instagram.com/neitanto",
     "onclick": ""
