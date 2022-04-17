@@ -14,28 +14,28 @@ const items = [
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | Textos que eu posto de vez em nunca ✍️",
+    "subtitle": "@neitanto | Posto de vez em nunca ✍️",
     "image": text,
     "link": "https://instagram.com/neitanto",
     "onclick": ""
 },
 {
     "title": "Currículo",
-    "subtitle": "@ntaraujo | Meu LinkedIn 👔",
+    "subtitle": "Se quiser me contratar/indicar 😉",
     "image": linkedin,
     "link": "https://www.linkedin.com/in/ntaraujo/",
     "onclick": ""
 },
 {
     "title": "Portfólio",
-    "subtitle": "@ntaraujo | Meus projetos públicos como desenvolvedor 👨‍💻",
+    "subtitle": "Meus projetos públicos como desenvolvedor 👨‍💻",
     "image": github,
     "link": "https://github.com/ntaraujo",
     "onclick": ""
 },
 {
     "title": "Me faça uma doação!",
-    "subtitle": "Clique aqui para copiar meu Pix!",
+    "subtitle": "Se sentiu de me ajudar, clique aqui para copiar meu pix!",
     "image": pix,
     "link": "#pix",
     "onclick": "navigator.clipboard.writeText(\"e48fcf72-c679-4cd4-a018-545435c4052e\"))"
