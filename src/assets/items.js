@@ -7,13 +7,6 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
-instagram
-neitanto
-linkedin
-github
-pix
-
-
 const items = [
 {
     "title": "Instagram",
