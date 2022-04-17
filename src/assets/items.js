@@ -1,11 +1,7 @@
-import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
-import appstore from '../assets/playstore.png'
-import youtube from '../assets/youtube.jpeg'
-import dribbble from '../assets/dribbble.png'
+import linkedin from '../assets/linkedin.png'
 import github from '../assets/github.png'
-import telegram from '../assets/telegram.png'
-import twitter from '../assets/twitter.png'
+import pix from '../assets/pix.png'
 
 const items = [
 {
@@ -25,7 +21,7 @@ const items = [
 {
     "title": "Currículo",
     "subtitle": "@ntaraujo | Meu LinkedIn 👔",
-    "image": website,
+    "image": linkedin,
     "link": "https://www.linkedin.com/in/ntaraujo/",
     "onclick": ""
 },
@@ -39,7 +35,7 @@ const items = [
 {
     "title": "Me faça uma doação!",
     "subtitle": "Clique aqui para copiar meu Pix!",
-    "image": website,
+    "image": pix,
     "link": "#",
     "onclick": "navigator.clipboard.writeText(\"e48fcf72-c679-4cd4-a018-545435c4052e\"))"
 }]
