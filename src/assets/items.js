@@ -36,7 +36,7 @@ const items = [
     "title": "Me faça uma doação!",
     "subtitle": "Clique aqui para copiar meu Pix!",
     "image": pix,
-    "link": "#",
+    "link": "#pix",
     "onclick": "navigator.clipboard.writeText(\"e48fcf72-c679-4cd4-a018-545435c4052e\"))"
 }]
 
