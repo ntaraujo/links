@@ -14,7 +14,7 @@ const items = [
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | Posto de vez em nunca ✍️",
+    "subtitle": "@neitanto | Posto de vez em nunca ⌛",
     "image": text,
     "link": "https://instagram.com/neitanto",
     "onclick": ""
@@ -34,8 +34,8 @@ const items = [
     "onclick": ""
 },
 {
-    "title": "Me faça uma doação!",
-    "subtitle": "Se sentiu de me ajudar, clique aqui para copiar meu pix!",
+    "title": "Pix",
+    "subtitle": "Clique aqui para copiar minha chave!",
     "image": pix,
     "link": "#pix",
     "onclick": "navigator.clipboard.writeText(\"e48fcf72-c679-4cd4-a018-545435c4052e\"))"
