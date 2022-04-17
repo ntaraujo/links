@@ -7,13 +7,13 @@ import pix from '../assets/pix.png'
 const items = [
 {
     "title": "Instagram",
-    "subtitle": "@ntaraujo1 | Fotos e vídeos 👀",
+    "subtitle": "@ntaraujo1 | Fotos e vídeos 📸",
     "image": instagram,
     "link": "https://instagram.com/ntaraujo1"
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | Posto de vez em nunca ⌛",
+    "subtitle": "@neitanto | Pensamentos postados de vez em nunca 💭",
     "image": text,
     "link": "https://instagram.com/neitanto"
 },
@@ -25,13 +25,13 @@ const items = [
 },
 {
     "title": "Portfólio",
-    "subtitle": "Meus projetos públicos como desenvolvedor 👨‍💻",
+    "subtitle": "Meus projetos como desenvolvedor 👨‍💻",
     "image": github,
     "link": "https://github.com/ntaraujo"
 },
 {
     "title": "Pix",
-    "subtitle": "Clique aqui para copiar minha chave!",
+    "subtitle": "Clique aqui para copiar minha chave! 🔑",
     "image": pix,
     "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
 }]
