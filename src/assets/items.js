@@ -10,35 +10,35 @@ const items = [
     "subtitle": "@ntaraujo1 | Fotos e vídeos 👀",
     "image": instagram,
     "link": "https://instagram.com/ntaraujo1",
-    "onclick": ""
+    "onClick": ""
 },
 {
     "title": "Textos",
     "subtitle": "@neitanto | Posto de vez em nunca ⌛",
     "image": text,
     "link": "https://instagram.com/neitanto",
-    "onclick": ""
+    "onClick": ""
 },
 {
     "title": "Currículo",
     "subtitle": "Se quiser me contratar/indicar 😉",
     "image": linkedin,
     "link": "https://www.linkedin.com/in/ntaraujo/",
-    "onclick": ""
+    "onClick": ""
 },
 {
     "title": "Portfólio",
     "subtitle": "Meus projetos públicos como desenvolvedor 👨‍💻",
     "image": github,
     "link": "https://github.com/ntaraujo",
-    "onclick": ""
+    "onClick": ""
 },
 {
     "title": "Pix",
     "subtitle": "Clique aqui para copiar minha chave!",
     "image": pix,
     "link": "#pix",
-    "onclick": "navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
+    "onClick": "navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
 }]
 
 export default items

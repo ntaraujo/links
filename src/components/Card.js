@@ -23,7 +23,7 @@ function Card(props) {
     }
 
     return (
-        <a href={props.link} onclick={props.onclick} rel="noopener noreferrer">
+        <a href={props.link} onClick={props.onClick} rel="noopener noreferrer">
             <motion.div className = "Card four columns"
                 initial="hidden"
                 animate="visible"

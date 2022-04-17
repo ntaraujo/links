@@ -21,7 +21,7 @@ function App() {
                             subtitle={item.subtitle}
                             link={item.link}
                             cover={item.image}
-                            onclick={item.onclick}>
+                            onClick={item.onClick}>
                             </Card>
                         )
                     })
