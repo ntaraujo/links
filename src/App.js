@@ -20,7 +20,8 @@ function App() {
                             title={item.title}
                             subtitle={item.subtitle}
                             link={item.link}
-                            cover={item.image}>
+                            cover={item.image}
+                            onclick={item.onclick}>
                             </Card>
                         )
                     })
