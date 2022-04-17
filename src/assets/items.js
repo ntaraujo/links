@@ -38,7 +38,7 @@ const items = [
     "subtitle": "Clique aqui para copiar minha chave!",
     "image": pix,
     "link": "#pix",
-    "onclick": "navigator.clipboard.writeText(\"e48fcf72-c679-4cd4-a018-545435c4052e\"))"
+    "onclick": "navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
 }]
 
 export default items
