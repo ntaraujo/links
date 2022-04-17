@@ -1,4 +1,5 @@
 import instagram from '../assets/instagram.png'
+import text from '../assets/text.png'
 import linkedin from '../assets/linkedin.png'
 import github from '../assets/github.png'
 import pix from '../assets/pix.png'
@@ -14,7 +15,7 @@ const items = [
 {
     "title": "Textos",
     "subtitle": "@neitanto | Textos que eu posto de vez em nunca ✍️",
-    "image": instagram,
+    "image": text,
     "link": "https://instagram.com/neitanto",
     "onclick": ""
 },
