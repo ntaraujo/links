@@ -18,20 +18,20 @@ const items = [
     "link": "https://instagram.com/neitanto"
 },
 {
-    "title": "Currículo",
-    "subtitle": "Se quiser me contratar/indicar 😉",
-    "image": linkedin,
-    "link": "https://www.linkedin.com/in/ntaraujo/"
-},
-{
     "title": "Portfólio",
     "subtitle": "Meus projetos como desenvolvedor 👨‍💻",
     "image": github,
     "link": "https://github.com/ntaraujo"
 },
 {
-    "title": "Pix",
-    "subtitle": "Clique aqui para copiar minha chave! 🔑",
+    "title": "Currículo",
+    "subtitle": "",
+    "image": linkedin,
+    "link": "https://www.linkedin.com/in/ntaraujo/"
+},
+{
+    "title": "Copiar chave Pix",
+    "subtitle": "",
     "image": pix,
     "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
 }]
