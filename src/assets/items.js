@@ -33,7 +33,7 @@ const items = [
     "title": "Copiar chave Pix",
     "subtitle": "",
     "image": pix,
-    "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e')"
+    "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e');alert('Copiado 👍')"
 }]
 
 export default items
