@@ -8,19 +8,19 @@ import inter from '../assets/inter.png'
 const items = [
 {
     "title": "Instagram",
-    "subtitle": "de vez em quando 📸",
+    "subtitle": "📸",
     "image": instagram,
     "link": "https://instagram.com/ntaraujo1"
 },
 {
     "title": "Textos",
-    "subtitle": "de vez em nunca ✍️(◔◡◔)",
+    "subtitle": "✍️",
     "image": text,
     "link": "https://instagram.com/neitanto"
 },
 {
     "title": "GitHub",
-    "subtitle": "café y código 👨‍💻☕",
+    "subtitle": "👨‍💻",
     "image": github,
     "link": "https://github.com/ntaraujo"
 },

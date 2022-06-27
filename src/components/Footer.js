@@ -7,7 +7,7 @@ import '../css/components.css'
 function Footer() {
     return (
         <div className="Footer container">
-            <p>É isso, tmj 🤙</p>
+            <p>🤙</p>
         </div>
     )
 }
