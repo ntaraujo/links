@@ -8,13 +8,13 @@ import inter from '../assets/inter.png'
 const items = [
 {
     "title": "Instagram",
-    "subtitle": "@ntaraujo1 | fotos de vez em quando 📸",
+    "subtitle": "de vez em quando 📸",
     "image": instagram,
     "link": "https://instagram.com/ntaraujo1"
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | reflexões de vez em nunca 💭",
+    "subtitle": "de vez em nunca ✍️(◔◡◔)",
     "image": text,
     "link": "https://instagram.com/neitanto"
 },
@@ -26,19 +26,19 @@ const items = [
 },
 {
     "title": "LinkedIn",
-    "subtitle": "meu job 👔",
+    "subtitle": "👔",
     "image": linkedin,
     "link": "https://www.linkedin.com/in/ntaraujo/"
 },
 {
     "title": "Pix",
-    "subtitle": "(👉ﾟヮﾟ)👉 manda",
+    "subtitle": "😎",
     "image": pix,
     "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e');alert('Copiado 👍')"
 },
 {
     "title": "Convite Inter",
-    "subtitle": "",
+    "subtitle": "✉️",
     "image": inter,
     "link": "https://bancointer.onelink.me/eiWM/6zb5b9ux"
 }]
