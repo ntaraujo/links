@@ -3,37 +3,44 @@ import text from '../assets/text.png'
 import linkedin from '../assets/linkedin.png'
 import github from '../assets/github.png'
 import pix from '../assets/pix.png'
+import inter from '../assets/inter.png'
 
 const items = [
 {
     "title": "Instagram",
-    "subtitle": "@ntaraujo1 | Fotos e vídeos 📸",
+    "subtitle": "@ntaraujo1 | fotos de vez em quando 📸",
     "image": instagram,
     "link": "https://instagram.com/ntaraujo1"
 },
 {
     "title": "Textos",
-    "subtitle": "@neitanto | Pensamentos postados de vez em nunca 💭",
+    "subtitle": "@neitanto | reflexões de vez em nunca 💭",
     "image": text,
     "link": "https://instagram.com/neitanto"
 },
 {
-    "title": "Portfólio",
-    "subtitle": "Meus projetos como desenvolvedor 👨‍💻",
+    "title": "GitHub",
+    "subtitle": "café y código 👨‍💻☕",
     "image": github,
     "link": "https://github.com/ntaraujo"
 },
 {
-    "title": "Currículo",
-    "subtitle": "",
+    "title": "LinkedIn",
+    "subtitle": "meu job 👔",
     "image": linkedin,
     "link": "https://www.linkedin.com/in/ntaraujo/"
 },
 {
-    "title": "Copiar chave Pix",
-    "subtitle": "",
+    "title": "Pix",
+    "subtitle": "(👉ﾟヮﾟ)👉 manda",
     "image": pix,
     "link": "javascript:navigator.clipboard.writeText('e48fcf72-c679-4cd4-a018-545435c4052e');alert('Copiado 👍')"
+},
+{
+    "title": "Convite Inter",
+    "subtitle": "",
+    "image": inter,
+    "link": "https://bancointer.onelink.me/eiWM/6zb5b9ux"
 }]
 
 export default items
