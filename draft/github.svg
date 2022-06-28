@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="300"
+   viewBox="0 0 900 300.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Nathan\Documents\GitHub\links\src\assets\github.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="github.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#800080"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.4681257"
+     inkscape:cx="483.60982"
+     inkscape:cy="123.62702"
+     inkscape:window-width="1876"
+     inkscape:window-height="1009"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 450.00002,70.963735 c -44.74446,0 -81.03434,36.283125 -81.03434,81.034325 0,35.80368 23.21634,66.17804 55.42073,76.89483 4.04496,0.74957 5.35503,-1.76249 5.35503,-3.8964 V 209.9106 c -22.54106,4.90258 -27.23429,-9.56204 -27.23429,-9.56204 -3.68707,-9.36622 -9.00157,-11.85803 -9.00157,-11.85803 -7.35387,-5.03088 0.56049,-4.92283 0.56049,-4.92283 8.13719,0.56723 12.4185,8.35327 12.4185,8.35327 7.22557,12.38475 18.95529,8.80574 23.581,6.73261 0.72255,-5.23346 2.8227,-8.81248 5.14568,-10.83158 -17.99637,-2.05962 -36.9179,-9.00832 -36.9179,-40.05122 0,-8.85301 3.1671,-16.07856 8.34654,-21.75097 -0.83736,-2.04611 -3.61278,-10.29135 0.79009,-21.44708 0,0 6.80688,-2.17443 22.29118,8.30601 6.4625,-1.79625 13.39092,-2.69439 20.27886,-2.72815 6.88791,0.0337 13.8231,0.9319 20.29909,2.72815 15.47081,-10.48044 22.26418,-8.30601 22.26418,-8.30601 4.40962,11.16247 1.6342,19.40773 0.79685,21.44708 5.1997,5.67241 8.33977,12.90472 8.33977,21.75097 0,31.12394 -18.95527,37.97809 -36.99892,39.98368 2.90373,2.51207 5.55761,7.44165 5.55761,15.00487 v 22.23716 c 0,2.15417 1.29655,4.68649 5.40903,3.88965 32.17738,-10.7303 55.36671,-41.09791 55.36671,-76.88808 0,-44.7512 -36.28312,-81.034325 -81.03432,-81.034325 z"
+       id="path4957"
+       style="stroke-width:6.75286;fill:#fcf8e8;fill-opacity:1" />
+  </g>
+</svg>
