@@ -6,9 +6,7 @@ import '../css/components.css'
 
 function Footer() {
     return (
-        <div className="Footer container">
-            <p>🤙</p>
-        </div>
+        <div className="Footer container"></div>
     )
 }
 
