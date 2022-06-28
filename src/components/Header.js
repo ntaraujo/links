@@ -25,7 +25,7 @@ function Header() {
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
-        {isDark ? <SunIcon color="white" /> : <MoonIcon  />}
+        {isDark ? <SunIcon color="#FCF8E8" /> : <MoonIcon color="#212121" />}
       </button>
     </div>
   )
