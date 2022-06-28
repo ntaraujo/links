@@ -61,7 +61,7 @@ a:hover {
   margin-top: 5%;
   margin-right: 2%;
   padding: 8px;
-  border-radius: 8px;
+  border-radius: 4px;
   height: 200px;
 }
 
@@ -92,7 +92,7 @@ p {
 .cover {
   width: 100%;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 4px;
   height: 94px;
 }
 
